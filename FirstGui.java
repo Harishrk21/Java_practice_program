@@ -12,9 +12,9 @@ class abc extends JFrame
     public abc()
     {
         setLayout(new FlowLayout());
-        JLabel a = new JLabel("kundhaani");
+        JLabel a = new JLabel("hello");
         add(a);
-        JLabel b = new JLabel("kiruku");
+        JLabel b = new JLabel("Welcomeeeee");
         add(b);
     }
 }
