@@ -139,7 +139,7 @@ class MyApp extends Frame implements ActionListener {
     }
 }
 
-class app {
+class AwtDemo {
     public static void main(String[] args) throws Exception {
         MyApp n = new MyApp();
     }
